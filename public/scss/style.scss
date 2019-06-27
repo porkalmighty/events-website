@@ -109,6 +109,10 @@ main {
             font-size: 0.875rem;
             color: #000;
         }
+        
+        &:last-child {
+            margin-right: 0px;
+        }
     }
 
     .learn-more {
